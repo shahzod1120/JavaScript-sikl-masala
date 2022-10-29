@@ -95,12 +95,12 @@
 // let s = 0;
 // for (let i = 0; i <= n; i++) {
 //     for (let j = 1; j <= n; j++) {
-//         if((n-i)%j == 0 && (n-i) != 0){
+//         if(i%j == 0 && i != 0){
 //             s++;
 //         }
 //     }
 //     if(s > 2){
-//       console.log(n-i);
+//       console.log(i);
 //     }
 //     s=0;
 // }
