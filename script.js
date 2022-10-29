@@ -93,7 +93,7 @@
 // M-13
 // let n = +prompt('n = ');
 // let s = 0;
-// for (let i = 0; i <= n; i++) {
+// for (let i = 1; i <= n; i++) {
 //     for (let j = 1; j <= n; j++) {
 //         if(i%j == 0 && i != 0){
 //             s++;
